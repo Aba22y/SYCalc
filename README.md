@@ -23,6 +23,10 @@ Converts infix expressions (like 12 + 34 * 5.6) into postfix notation (12 34 5.6
 
 Evaluates the resulting postfix expression to produce a numeric result
 
+## Example
+
+![A screenshot of the app](instance.png)
+
 ## Notes
 
 - Currently supports only numeric constants (multi-digit integers and decimals)
